@@ -11,8 +11,12 @@ I hope you enjoy it!
 I would like to thank the following people who have provided support, knowingly and unknowingly, moral and emotional:
 
 Gino Borja, who taught me everything I know (in image processing)
+
 Jephraim Manansala, whose own blogs helped me finish the machine learning portion of this project
-Hippolito Punzalan III (or Hips, as we like to call him), for pointing me in the right track
+
+Hipolito Punzalan III (or Hips, as we like to call him), for pointing me in the right track
+
 Antonio Fernando (this is Toby), for being late with me, relieving some of the pressure
+
 
 Thank you!
